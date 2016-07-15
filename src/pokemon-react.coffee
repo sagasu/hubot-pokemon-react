@@ -14,5 +14,5 @@ pokemonDie = [
 ]
 
 module.exports = (robot) ->
-  robot.respond /pokemon/i, (msg) ->
+  robot.hear /pokemon/i, (msg) ->
     msg.send msg.random pokemonDie

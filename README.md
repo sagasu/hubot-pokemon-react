@@ -15,7 +15,7 @@ Add **hubot-pokemon-react** to your `package.json` file:
 }
 ```
 
-Add **hubot-blackfriday** to your `external-scripts.json`:
+Add **hubot-pokemon-react** to your `external-scripts.json`:
 
 ```json
 ["hubot-pokemon-react"]

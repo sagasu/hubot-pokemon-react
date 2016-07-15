@@ -1,6 +1,6 @@
 {
   "name": "hubot-pokemon-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stops people talking about pokemons",
   "main": "index.coffee",
   "scripts": {
